@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/alfis/Workflow-CI/MLProject/mlruns/0/df4e57523ccf404986913600a750b5f8/artifacts
+end_time: 1783211641158
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df4e57523ccf404986913600a750b5f8
+run_name: agreeable-owl-460
+run_uuid: df4e57523ccf404986913600a750b5f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783211621110
+status: 3
+tags: []
+user_id: alfis

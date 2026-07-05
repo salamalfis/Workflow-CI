@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/alfis/Workflow-CI/MLProject/mlruns/0/1cf0cf4760624bdeb0c403cd8e198a6c/artifacts
+end_time: 1783168677175
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cf0cf4760624bdeb0c403cd8e198a6c
+run_name: defiant-loon-601
+run_uuid: 1cf0cf4760624bdeb0c403cd8e198a6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783168423951
+status: 3
+tags: []
+user_id: alfis

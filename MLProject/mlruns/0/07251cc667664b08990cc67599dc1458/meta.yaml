@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/alfis/Workflow-CI/MLProject/mlruns/0/07251cc667664b08990cc67599dc1458/artifacts
+end_time: 1783168343748
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07251cc667664b08990cc67599dc1458
+run_name: sneaky-skink-612
+run_uuid: 07251cc667664b08990cc67599dc1458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783168321487
+status: 3
+tags: []
+user_id: alfis

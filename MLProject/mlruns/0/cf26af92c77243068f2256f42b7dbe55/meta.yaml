@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/alfis/Workflow-CI/MLProject/mlruns/0/cf26af92c77243068f2256f42b7dbe55/artifacts
+end_time: 1783211919310
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf26af92c77243068f2256f42b7dbe55
+run_name: mysterious-cow-443
+run_uuid: cf26af92c77243068f2256f42b7dbe55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783211902526
+status: 3
+tags: []
+user_id: alfis
